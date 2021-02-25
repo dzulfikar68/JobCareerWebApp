@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <v-container grid-list-sm>
+      <p><b>Job Career App</b> adalah aplikasi web untuk mencari lowongan pekerjaan online.</p>
+    </v-container>
   </div>
 </template>

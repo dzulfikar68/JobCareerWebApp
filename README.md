@@ -1,4 +1,4 @@
-# vueshop
+# JobCareerWebApp
 
 ## Project setup
 ```
